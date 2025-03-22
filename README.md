@@ -40,8 +40,5 @@
 	<a href="https://www.oracle.com/cloud/">
   	<img src="https://oracle.gallerycdn.vsassets.io/extensions/oracle/oci-core/1.0.5/1715101068442/Microsoft.VisualStudio.Services.Icons.Default" alt="C" width="50" height="50">
 	</a>
-	<a href="https://www.oracle.com/cloud/">
-  	<img src="https://oracle.gallerycdn.vsassets.io/extensions/oracle/oci-core/1.0.5/1715101068442/Microsoft.VisualStudio.Services.Icons.Default" alt="C" width="50" height="50">
-	</a>
 </div>
 
